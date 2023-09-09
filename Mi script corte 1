@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mi pagina corte 1</title>
+
+</head>
+<DIV>
+    <br>
+<H1>
+
+    UBIAPPS
+</H1>
+<br>
+</DIV>
+<br>
+<DIV>
+
+    <P>Nuestra Idea surge a partir de 
+        la problemática de los altos costos de los 
+        productos básicos de nuestra canasta familiar
+        esta se ve afectada por la compra de los productos agrícolas 
+        a un precio mayor por parte de los centros de acopio, 
+        Hemos evidenciado que para los campesinos es más rentable recurrir
+        a botar los alimentos debido al alto costo del transporte de estos 
+        productos a los puntos establecidos por los centros de acopio. 
+
+    </P>
+</DIV>
+<br>
+         <DIV>
+             <LI>
+                 CONECTAR EL SECTOR AGRICOLA CON EL TRANSPORTE DE MERCANCIA
+        
+            </LI>
+
+                <LI>REDUCIR EL MONOPOLIO EN EL PRECIO DE LOS alimentos
+             </LI>
+
+                <LI>
+                    BUSCA MEJORAR LA CALIDAD DE VIDA DEL CAMPESINADO COLOMBIANO
+                </LI>
+                <LI>
+                     POR MEDIO DE NUESTRA APLICACIÓN BUSCAMOS REDUCIR EL IMPACTO ECONOMICO EN LAS PARTES INCLUIDAS
+                 </LI>
+     <br>            
+    </DIV>
+<br>
+    <div>
+        <img src="IMAGEN UBIAPPS.png" alt="">
+    
+        <p>Actualmente la hegemonía colombiana se encuentra enfocada en la politización 
+            de todo lo que existe dejando de un lado el beneficio de la gente ubicada en las zonas rurales. esto es un impedimento ya que terceros ajenos a la situacion del pais se ven afectados por una guerra insulsa y sin sentido que afecta en lo social y lo economico.
+        </p>
+    
+        <br>
+        <p style="color: blue;">
+            Es por esto que UBIAPPS busca integrar el sector transportista y rural para que ambas partes del sector productivo se vean beneficiadas y puedan de alguna forma convivir sin que una parte afecte la otra debido a que actualmente el impuesto arancelario de carga y el sobrecargo de la gasolina, hacen de esto un tema realmente complejo para el campesino  aqui quien determina el bienestar nacional, es el campesino y una parte depende en sí mismo de la otra.
+        
+        </p>
+    </div>
+<br>
+
+<body>
+
+
+    
+</body>
+</html>
